@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lampre1208&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkgk7610&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lampre1208&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkgk7610&layout=compact)
 
 
 
