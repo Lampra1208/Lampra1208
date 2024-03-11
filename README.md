@@ -3,6 +3,9 @@
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
+<img src="https://img.shields.io/badge/#61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lampra1208&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lampra1208&layout=compact)
